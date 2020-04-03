@@ -1,0 +1,26 @@
+{
+  "name": "uzy-ip-uri-tool",
+  "version": "1.0.0",
+  "description": "uzykj ip uri tool npm's lib",
+  "main": "index.js",
+  "scripts": {},
+  "author": {
+    "name": "ghostxbh",
+    "url": "http://xbh.uzykj.com"
+  },
+  "keywords": [
+    "npm",
+    "npm plug",
+    "ip",
+    "uri"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "uri": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
