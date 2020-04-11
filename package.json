@@ -1,6 +1,6 @@
 {
   "name": "uzy-ip-uri-tool",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "uzykj ip uri tool npm's lib",
   "main": "index.js",
   "scripts": {},
